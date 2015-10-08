@@ -7,13 +7,15 @@ fjern den eksisterende fra js/all.js og legg til ønsket versjon.
 
 Alle lenkene fra header og footer er riktige, de lenkene som er i elementene i body er tømme.
 Elementene i body er frivillige og kan fjernes.
-For å editere elementene eller legge til nye se på
+For å editere elementene eller legge til nye se på kode i:
 
-[HiOA](http://www.hioa.no/)
+[www.hioa.no](http://www.hioa.no/)
+
 
 
 ##COMPONENTER
 
+```
 |-- css
 |   |-- all.css
 |   |-- browsers
@@ -45,8 +47,7 @@ For å editere elementene eller legge til nye se på
 |-- js
 |   `-- all.js
 `-- README.md
-
-
+```
 
 
 ##INSTALL
