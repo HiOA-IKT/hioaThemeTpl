@@ -47,6 +47,8 @@ For å editere elementene eller legge til nye se på
 `-- README.md
 
 
+
+
 ##INSTALL
 
 Last ned alt og kjør index.html i en nettleser.
