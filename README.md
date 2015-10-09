@@ -59,7 +59,7 @@ Last ned alt og kjør index.html i en nettleser.
 
 Kjør 
 
-````javascript
+```javascript
 npm i hioathemetpl --save
 ```
 
