@@ -62,4 +62,5 @@ Kjør
 ````javascript
 npm i hioathemetpl --save
 ```
+
 Da får du node_modules/hioathemetpl/ med alle de nødvendige filer.
