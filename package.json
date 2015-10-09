@@ -1,0 +1,32 @@
+{
+  "name": "hioathemetpl",
+  "version": "1.0.0",
+  "description": "Template ned HiOA profil. jQuery er inkludert i all.js, så ingen avhengigheter. Mer info i README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@repos.hioa.no:7999/ebasys/hioathemetpl.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valentinrey/hioaThemeTpl"
+  },
+   "bugs": {
+    "url": "https://github.com/valentinrey/hioaThemeTpl/issues"
+  },
+  "keywords": [
+    "HiOA",
+    "template",
+    "tpl"
+  ],
+  "author": "HiOA",
+  "contributors": [
+     { "name": "Daniel Gracia aka \"Danielo\" <daniel.gracia@hioa.no>" },
+     { "name": "Tofik Sahraoui aka \"Toffa\" <tofik.sahraoui@hioa.no>" },
+     { "name": "Valentin Rey aka \"Valerio\" <valentin.rey-rosell@hioa.no>" }
+  ],
+  "license": "BSD"
+}

@@ -53,3 +53,13 @@ For å editere elementene eller legge til nye se på kode i:
 ##INSTALL
 
 Last ned alt og kjør index.html i en nettleser.
+
+
+##INSTALL MED NPM
+
+Kjør 
+
+````javascript
+npm i hioathemetpl --save
+```
+Da får du node_modules/hioathemetpl/ med alle de nødvendige filer.
