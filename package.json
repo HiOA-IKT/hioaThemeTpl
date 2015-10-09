@@ -1,6 +1,6 @@
 {
   "name": "hioathemetpl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Template ned HiOA profil. jQuery er inkludert i all.js, så ingen avhengigheter. Mer info i README.md",
   "main": "index.js",
   "scripts": {
