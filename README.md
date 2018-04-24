@@ -1,4 +1,4 @@
-#Template med HiOA profil
+# Template med HiOA profil
 
 Dette er en template med HiOA profil. Alt av google analytics ol. er blitt fjernet.
 CSS, js og bilder er disponert for å fungere ved å laste ned pakken.
@@ -13,7 +13,7 @@ For å editere elementene eller legge til nye se på kode i:
 
 
 
-##COMPONENTER
+## COMPONENTER
 
 ```
 |-- css
@@ -50,12 +50,12 @@ For å editere elementene eller legge til nye se på kode i:
 ```
 
 
-##INSTALL
+## INSTALL
 
 Last ned alt og kjør index.html i en nettleser.
 
 
-##INSTALL MED NPM
+## INSTALL MED NPM
 
 Kjør 
 
